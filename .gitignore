@@ -1,5 +1,6 @@
 test.ipynb
-randomforest.pkl
+*.pkl
+test.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
